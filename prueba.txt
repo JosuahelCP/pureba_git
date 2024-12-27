@@ -1,5 +1,9 @@
-Esto es una pruba
+Esto es una prueba
 
 public int suma(int x, int y){
 	return x + y;
+}
+
+public int resta(int x, int y){
+	return x - y;
 }
